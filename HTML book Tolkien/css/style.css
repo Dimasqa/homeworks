@@ -1,0 +1,52 @@
+body  {
+background-color: #FFEFD5;
+}
+.paragraph {
+    text-align: center;
+}
+
+.part-1 {
+    color: #8B4513;
+}
+.part-2 {
+    color: #006400;
+}
+.part-3 {
+    color: #008080;
+}
+.part-4 {
+    color: #A52A2A;
+}
+.note {
+    font-size: 25px;
+    color: black;
+}
+.content {
+    position: fixed;
+    right: 15px;
+    top: 15px;
+    background-color: rgba(178, 34, 34, 0.3);
+}
+.italic-1 {
+    font-style: italic;
+    color: #8B4513;
+}
+.italic-2 {
+    font-style: italic;
+    color: #006400;
+}
+.italic-4 {
+    font-style: italic;
+    color: #A52A2A;
+}
+h1 {
+    color: firebrick;
+}
+h2 {
+    color: maroon;
+}
+.board {
+    border: 4px black;
+    padding: 10px;
+    background-color: rgba(178, 34, 34, 0.3);
+}
